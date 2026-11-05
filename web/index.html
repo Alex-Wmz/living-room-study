@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'; frame-src 'none'">
+  <meta name="color-scheme" content="light">
+  <title>客厅学习站 · Living Room Study</title>
+  <link rel="icon" href="mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script src="core.js" defer></script>
+  <script src="demo-bank.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" id="brand"><span class="brand-mark" aria-hidden="true">学</span><span>客厅学习站<small>LIVING ROOM STUDY</small></span></a>
+    <nav aria-label="主导航"><button id="nav-study" class="nav current" type="button">学习台</button><button id="nav-bank" class="nav" type="button">题库工坊</button><a class="nav" href="https://github.com/Alex-Wmz/living-room-study#readme" target="_blank" rel="noopener noreferrer">实现指南 ↗</a></nav>
+    <span class="version">0.1 · 流程演示</span>
+  </header>
+  <main id="app" tabindex="-1"></main>
+  <div id="notice" class="notice" role="status" aria-live="polite"></div>
+  <footer><span><kbd>↑↓←→</kbd> 移动焦点　<kbd>Enter</kbd> 确认　<kbd>Esc</kbd> 返回</span><span>通用方案与网页演示 · 电视实机适配待验</span></footer>
+  <noscript>本地答题演示需要 JavaScript。题目与记录不上传服务器。</noscript>
+</body>
+</html>

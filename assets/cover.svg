@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+<title id="title">客厅学习站 · Living Room Study</title><desc id="desc">独立实现的通用指南与可运行网页流程演示，电视实机适配待验。</desc>
+<rect width="1280" height="340" rx="24" fill="#f3f4e9"/><path d="M0 0H1280" stroke="#234e43" stroke-width="12"/>
+<g font-family="Microsoft YaHei,Arial,sans-serif"><text x="62" y="68" font-size="16" letter-spacing="3" fill="#9e7b3d">LIVING ROOM STUDY</text><text x="60" y="146" font-size="49" font-weight="700" fill="#1d4237">客厅学习站</text><text x="63" y="200" font-size="22" fill="#66766a">课程与题库可以换，练习流程不重写。</text><text x="64" y="275" font-size="17" fill="#5f7567">通用实现指南　·　可运行流程演示　·　电视实机待验</text></g>
+<rect x="892" y="60" width="305" height="197" rx="17" fill="#fffef8" stroke="#7b9683" stroke-width="3"/><path d="M1044 259v24m-52 0h104" stroke="#7b9683" stroke-width="4" stroke-linecap="round"/><g fill="#dbe6d3"><rect x="917" y="86" width="204" height="12" rx="6"/><rect x="917" y="118" width="257" height="46" rx="9"/><rect x="917" y="178" width="120" height="46" rx="9"/><rect x="1051" y="178" width="123" height="46" rx="9"/></g><path d="m940 143 8 8 14-18" stroke="#245c46" stroke-width="4" fill="none" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,11 @@
+{
+  "name": "living-room-study",
+  "version": "0.1.0-preview.1",
+  "private": true,
+  "description": "Offline course-bank and quiz-flow reference for a family learning screen",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "check-bank": "node tools/check-bank.cjs banks/demo.json"
+  }
+}
